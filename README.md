@@ -21,7 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/MarcBHaidar/fylo-data-storage-component-master/blob/main/images/desktop-screenshot.jpg)
+![](https://github.com/MarcBHaidar/fylo-data-storage-component-master/blob/main/images/mobile-screenshot.jpg)
+
 
 
 ### Links
